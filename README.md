@@ -2,7 +2,7 @@
 <h3>NAME: VinnushKumar L S</h3>
 <h3>REGISTER NO: 212223230244</h3>
 <h3>EX. NO: 5</h3>
-<h3>DATE : 26-05-2026</h3>
+
 
 **Objective:**
 Implement Bubble Sort and Merge Sort on the GPU using CUDA, analyze the efficiency of this sorting algorithm when parallelized, and explore the limitations of Bubble Sort and Merge Sort for large datasets.
